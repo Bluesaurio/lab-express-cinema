@@ -3,6 +3,35 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   
 }
+#mainPage{
+  position: absolute;
+  background-image: url(../images/cinema.jpg);
+  height: 45em;
+  width: 70em;
+  
+}
+#cinema {
+color: aliceblue;
+font-size: 4em;
+position: absolute;
+top: 1em;
+left: 11em;
+}
+
+#button {
+  background-color: white;
+  color: lightskyblue;
+  height: 3em;
+  width: 13em;
+  font-size: 1.2em;
+  border-radius: 5em;
+  position: absolute;
+  top: 15em;
+  left: 36em;
+}
+
+
+
 
 a {
   color: #00B7FF;
